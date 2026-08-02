@@ -1,13 +1,13 @@
 class Solution {
     public boolean checkPerfectNumber(int num) {
-        int factorsum = 0;
+        int y= num;
         for (int i = 1; i < num; i++) {
             if (num % i == 0) {
-                factorsum += i;
+                y-=i;
             }
 
         }
-        if (factorsum == num)
+        if (y == 0)
             return true;
         else
             return false;
