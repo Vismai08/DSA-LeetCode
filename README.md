@@ -1,4 +1,4 @@
-# ⚡ LeetCode Solutions & DSA Repository
+# LeetCode Solutions & DSA Repository
 
 [![Language: Java](https://img.shields.io/badge/Language-Java-orange.svg?style=for-the-badge&logo=java)](https://java.com)
 [![Language: Python](https://img.shields.io/badge/Language-Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -9,7 +9,7 @@ Welcome to my central repository for tracking Data Structures and Algorithms (DS
 
 ---
 
-## 📌 Repository Structure
+## Repository Structure
 
 Every directory corresponds to a specific LeetCode problem ID and title (`[ID]-[Problem-Name]`), containing solutions in Java and Python:
 
@@ -25,3 +25,4 @@ DSA-LeetCode/
 └── 507-perfect-number/
     ├── Solution.java
     └── solution.py
+    ...... and so on .....
