@@ -5,8 +5,7 @@
 [![Platform: LeetCode](https://img.shields.io/badge/Platform-LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
 [![Profile](https://img.shields.io/badge/GitHub-Vismai08-181717?style=for-the-badge&logo=github)](https://github.com/Vismai08)
 
-Welcome to my central repository for tracking Data Structures and Algorithms (DSA) problem-solving progress! Here, you'll find documented solutions, edge-case analysis, and optimized implementations for various LeetCode problems in both Java and Python.
-
+Welcome! This is where I track my daily LeetCode grind and keep all the DSA problems I solve in one place. No crazy repository , just my code, neat solutions, and notes in Java and Python as I work on improving my problem-solving skills!
 ---
 
 ## Repository Structure
